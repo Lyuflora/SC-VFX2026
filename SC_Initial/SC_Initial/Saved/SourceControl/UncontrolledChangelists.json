@@ -6,7 +6,20 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/RealBiomes/Maps/RealBiomes_TestEmpty.umap",
-				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/ParagonMurdock/Characters/Heroes/Murdock/Meshes/IKRig_Murdock.uasset"
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/ParagonMurdock/Characters/Heroes/Murdock/Meshes/IKRig_Murdock.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Characters/AO_Nyx/Materials/M_Nyx_Body.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Characters/AO_Nyx/Materials/M_Nyx_Ribbon_test.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/RealBiomes/Maps/RealBiomes_TestlLand.umap",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Chapter0_Attack/EF_T_Gemstone_0001_N.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Chapter0_Attack/EF_T_Gemstone_0001.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Chapter0_Attack/EF_SM_Gemstone_0001.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Chapter0_Attack/EF_M_GemStone.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Blueprint/EF_BP_Basic.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Blueprint/EF_BP_Basic_Bezier_Bullet.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Blueprint/EF_BP_Basic_BezierBullet.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Blueprint/Role/BP_Nyx.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Characters/AO_Nyx/Materials/M_Nyx_Hair.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Characters/AO_Nyx/Materials/M_Nyx_Ribbon_Inst.uasset"
 			]
 		}
 	]
