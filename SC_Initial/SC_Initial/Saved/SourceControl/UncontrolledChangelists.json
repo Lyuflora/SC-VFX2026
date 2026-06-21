@@ -15,11 +15,19 @@
 				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Chapter0_Attack/EF_SM_Gemstone_0001.uasset",
 				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Chapter0_Attack/EF_M_GemStone.uasset",
 				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Blueprint/EF_BP_Basic.uasset",
-				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Blueprint/EF_BP_Basic_Bezier_Bullet.uasset",
 				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Blueprint/EF_BP_Basic_BezierBullet.uasset",
 				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Blueprint/Role/BP_Nyx.uasset",
 				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Characters/AO_Nyx/Materials/M_Nyx_Hair.uasset",
-				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Characters/AO_Nyx/Materials/M_Nyx_Ribbon_Inst.uasset"
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Characters/AO_Nyx/Materials/M_Nyx_Ribbon_Inst.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Meshs/Others/gem_stone_0_emissive.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Meshs/Others/gem_stone_0_normal.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Meshs/Others/EF_SM_GemStone_1.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Common/Materials/Others/EF_M_GemStone.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Niagara/Attack/NS_Attack_Bullet.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Common/NiagaraEmitter/NE_Mesh.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Common/Materials/EF_M_Flare.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Common/MaterialFunction/EF_MF_TexUV.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Blueprint/EF_BP_Basic_Bezier_Bullet.uasset"
 			]
 		}
 	]
