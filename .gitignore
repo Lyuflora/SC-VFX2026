@@ -73,3 +73,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+SC_Initial/SC_Initial/Content/RealBiomes/Textures/Cliffs/Desert_Cliff_Large/T_Desert_Cliff_Large_Macro_NRM.uasset
+SC_Initial/SC_Initial/Content/RealBiomes/Textures/Cliffs/Desert_Cliff_Small/T_Desert_Cliff_Small_Macro_NRM.uasset
+SC_Initial/SC_Initial/Content/RealBiomes/Textures/Distance/Desert_Distance/T_Desert_Distance_Mountains_20px_NRM.uasset
+SC_Initial/SC_Initial/Content/RealBiomes/Textures/Landscape/Global/T_Desert_Landscape_Global_COL.uasset
+SC_Initial/SC_Initial/Content/RealBiomes/Textures/Rock/Desert_Rock_Formations/T_Desert_Rock_Formation_Large_Macro_NRM.uasset
+SC_Initial/SC_Initial/Content/RealBiomes/Textures/Rock/Desert_Rock_Formations/T_Desert_Rock_Formation_Medium_Macro_NRM.uasset
