@@ -6,7 +6,26 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/RealBiomes/Maps/RealBiomes_TestEmpty.umap",
-				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/ParagonMurdock/Characters/Heroes/Murdock/Meshes/IKRig_Murdock.uasset"
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/ParagonMurdock/Characters/Heroes/Murdock/Meshes/IKRig_Murdock.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Common/MaterialFunction/EF_MF_TexUV.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Common/Materials/EF_M_Flare.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Common/MaterialFunction/EF_MF_ParticleColor.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/RealBiomes/Maps/RealBiomes_TestlLand.umap",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/Textures/Noise/EF_T_Noise_0058.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/MaterialInstance/Simple/EF_M_Flare_Inst.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/MaterialInstance/Portal/M_Portal_Rim.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/MaterialInstance/Portal/NS_Portal_1.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/MaterialInstance/Portal/output_tear_0.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/MaterialInstance/Portal/Noise02.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/MaterialInstance/Portal/Noise01.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/MaterialInstance/Portal/Ramp02.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/MaterialInstance/Portal/Noise03.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/MaterialInstance/Portal/Ramp01.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/MaterialInstance/Portal/Ramp03.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/MaterialInstance/Portal/output_tear_0_out.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/MaterialInstance/Portal/output_tear_0_in.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/MaterialInstance/BWFlash/M_PP_BWFlash.uasset",
+				"D:/VFXWorkspace/SC-VFX2026/SC_Initial/SC_Initial/Content/Effect/MaterialInstance/EF_M_Flare_Inst.uasset"
 			]
 		}
 	]
